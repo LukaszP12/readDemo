@@ -8,6 +8,4 @@ more text with two line breaks between.
   -  second time
   -  third time 
     -  indented
-       1.inner number 
-       1.
-       1.
+       1.  inner number
