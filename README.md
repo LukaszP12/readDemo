@@ -22,4 +22,4 @@ more text with two line breaks between.
 
 [this is a description](http://www.github.com)
 
-
+This paragraph has some 'variable' inline code 
