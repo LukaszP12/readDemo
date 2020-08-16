@@ -14,7 +14,7 @@ more text with two line breaks between.
     -  second indented 
   -  forth time
   -  fifth time
-    - 5. indented
+    -  5. indented
       1. bullet point
       1. bullet point
       1. bullet point
